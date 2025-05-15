@@ -1,5 +1,4 @@
-# Exno.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
-### DATE: 
+# Exno.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques 
 ### NAME : ARAVIND R
 ### REGISTER NUMBER : 212223230019
 
